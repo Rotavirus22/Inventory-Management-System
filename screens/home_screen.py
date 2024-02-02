@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import font
 from tkinter import Tk, Label, Entry, Button, StringVar
-
+# git trys
 root = Tk()
 root.title("Stock Panda")
 root.config(bg="#8A908B")
